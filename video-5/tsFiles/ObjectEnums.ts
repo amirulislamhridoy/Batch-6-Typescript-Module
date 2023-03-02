@@ -1,6 +1,6 @@
 // object & enum
 // object 
-const sabbirObj: {name: string, age?: number, merrid: boolean, support?: string[]} = {
+const sabbirObj: {name: string, age?: number, merrid: boolean | string, support?: string[]} = {
     name: 'sabbir',
     age: 20,
     merrid: false,

@@ -1,5 +1,5 @@
 // interface
-// interface use for generally object & function, interface extends, type aliases extends
+// interface use for generally object & function, interface extends, type aliases extends, [if you want to know difference between interface and type aliases, you should do google.]
 
 // inteface with object
 interface Person2 {
